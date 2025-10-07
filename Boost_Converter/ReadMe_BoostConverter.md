@@ -1,4 +1,4 @@
-# Week 02 – Boost Converter Simulation (Using LTspice)
+# Boost Converter Simulation (Using LTspice)
 
 ##  Objective
 To simulate a boost converter using LTspice and analyze the output voltage behavior in response to a PWM switching signal.
@@ -29,3 +29,4 @@ The MOSFET `M1` operates as a switch controlled by a PWM signal from `V2`.
 - `boost_converter.asc` – LTspice schematic  
 - `simulation_plot.png` – Simulation output as a screenshot  
 - `ReadMe_BoostConverter.md` – This documentation  
+
