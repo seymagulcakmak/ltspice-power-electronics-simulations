@@ -1,4 +1,4 @@
-# Week 01 – Buck Converter Simulation with Ideal Switch (Using LTspice)
+## Buck Converter Simulation with Ideal Switch (Using LTspice)
 
 ##  Objective
 To simulate a buck converter in LTspice using an ideal voltage-controlled switch and observe the output voltage behavior.
@@ -74,4 +74,5 @@ This behavior allows the circuit to boost the output voltage **above the input v
 - `simulation.png` → Simulation output of the ideal converter as a screenshot
 - `buck_converter_realistic.asc` → LTspice schematic of the realistic buck converter
 - `README_buck_converter.md` → This documentation
+
 
